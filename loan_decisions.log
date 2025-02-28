@@ -7,3 +7,23 @@
 2025-02-27 14:56:28,190-API call failed with error: Expecting value: line 1 column 1 (char 0)
 2025-02-27 14:58:42,086-API call failed with error: Expecting value: line 1 column 1 (char 0)
 2025-02-27 14:59:51,017-API call failed with error: Expecting value: line 1 column 1 (char 0)
+2025-02-27 15:32:08,708-API call failed with error: Expecting value: line 1 column 1 (char 0)
+2025-02-27 15:33:14,764-API call failed with error: Expecting value: line 1 column 1 (char 0)
+2025-02-27 15:34:27,163 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-27 15:36:25,103 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-27 15:37:23,676 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-27 15:53:08,752 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-27 15:59:09,217 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-28 10:18:46,087 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-28 10:21:23,768 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-28 10:33:39,788 - Failed to parse JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-28 11:33:46,063 - API call failed with error: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /random (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104e85d60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-28 11:34:29,378 - API call failed with error: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /random (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101c99d60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-28 11:36:09,000 - API call failed with error: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /random (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1036edd60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-28 11:36:58,195 - API call failed with error: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /random (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103ab9d60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-28 11:45:04,174 - API call failed with error: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /random (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105cd1d60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-28 11:48:08,616 - API call failed with error: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /random (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1059b9d60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-28 11:53:25,441 - API call failed with error: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /random (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105539c40>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-02-28 11:53:51,433 - Credit score: 784 | Decision: Approved
+2025-02-28 11:54:34,717 - Credit score: 948 | Decision: Approved
+2025-02-28 11:55:58,441 - Credit score: 313 | Decision: Rejected
